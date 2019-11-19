@@ -23,6 +23,13 @@ Or just download it and place it where you want otherwise.
 
 
 
+Summary
+===========
+- [Light_Firewall api](https://github.com/lingtalfi/Light_Firewall/blob/master/doc/api/Ling/Light_Firewall.md) (generated with [DocTools](https://github.com/lingtalfi/DocTools))
+- [Services](#services)
+
+
+
 
 Services
 =========
@@ -78,19 +85,16 @@ Learn how to configure the firewall in the [conception notes](https://github.com
 
 
 
-Summary
-===========
-- [Light_Firewall api](https://github.com/lingtalfi/Light_Firewall/blob/master/doc/api/Ling/Light_Firewall.md) (generated with [DocTools](https://github.com/lingtalfi/DocTools))
-- [Services](#services)
-
-
-
 
 
 
 History Log
 =============
 
+- 1.1.0 -- 2019-11-19
+
+    - update plugin to accommodate renamed Light_ReverseRouter service 
+    
 - 1.0.0 -- 2019-07-18
 
     - initial commit
