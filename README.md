@@ -96,6 +96,10 @@ Learn how to configure the firewall in the [conception notes](https://github.com
 History Log
 =============
 
+- 1.1.4 -- 2021-05-10
+
+    - Fix assets missing.
+
 - 1.1.3 -- 2021-03-05
 
     - update README.md, add install alternative
